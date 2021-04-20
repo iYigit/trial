@@ -1,0 +1,11 @@
+.clean-block.dark .block-heading p {
+  opacity: 1;
+}
+
+.clean-block .block-heading p {
+  text-align: center;
+  max-width: 420px;
+  margin: auto;
+  opacity: 1;
+}
+
